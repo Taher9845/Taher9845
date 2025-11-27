@@ -1,93 +1,103 @@
-<h1 align="center">Hi 👋, I'm Mohammed Taher</h1>
-<h3 align="center">Aspiring Full-Stack & Machine Learning Developer</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#0078D7;">Mohammed Taher</span></h1>
+<h3 align="center">🚀 Full-Stack & Machine Learning Developer | Turning Ideas into Intelligent Apps</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Apps-%F0%9F%96%A5-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20Developer-%F0%9F%92%BB-14CDC3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%94%A5-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%91%BB-28A745?style=flat-square" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I build **AI + Web apps**, including ML-powered healthcare tools, audio forensic systems, and full-stack platforms.
-- 🌱 I’m currently working on **Deepfake Audio Detection** using classical ML models (Random Forest, KNN, CART, Naive Bayes).
-- 🧠 Exploring **Django**, **LangChain**, **OCR**, and end-to-end intelligent web applications.
-- 💬 Ask me about **Python, Django, Machine Learning, OCR, Web Apps, Blockchain basics**.
-- ⚡ Fun fact: I love converting ideas into working apps — fast!
+## 👨‍💻 About Me
+
+- 💡 I build **AI-powered web apps**: ML systems, audio forensics, healthcare analyzers, blockchain integrations, and scalable platforms.
+- 🧠 Currently deep-diving into **Deepfake Audio Detection** using classical ML: Random Forest, KNN, CART & Naive Bayes.
+- 💻 Exploring **Django**, **LangChain**, **OCR pipelines**, and full-stack E2E systems.
+- 💬 DM me about: `Python`, `Django`, `ML`, `Java`, `C`, `OCR`, `Web Dev`, `Blockchain`.
+- 😎 Fun fact: I design prototypes quickly — often turning wild ideas into working apps within hours!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Toolbox
 
-### **Languages**
+### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
-### **Frameworks & Tools**
+### 🧩 Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6F00?logo=gradio&logoColor=white)
 
-### **Machine Learning & Data**
+### 📊 ML, Data & Audio
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Librosa](https://img.shields.io/badge/Librosa-000000?logo=librosa&logoColor=white)
 
-### **Databases**
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-### **Tools**
+### ⚙️ Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
 
 ---
 
-## 📘 Featured Projects
+## 🌟 Featured Projects
 
-### 🔬 **Deepfake Audio Detection (ASVspoof 2019)**
-- Detects synthetic voice recordings
-- Classical ML models: Random Forest, KNN, CART, Naive Bayes
-- Feature extraction using **Librosa**
-- Metrics: **ROC-AUC**, **Confusion Matrix**, **EER**
-- Gradio-based real-time demo
+### 🔬 Deepfake Audio Detection (ASVspoof 2019)
+- Detect synthetic voice recordings with classical ML (RF, KNN, CART, NB)
+- Audio feature extraction via **Librosa**
+- Visualizes metrics: **ROC-AUC, EER, Confusion Matrix**
+- Real-time demo powered by **Gradio**
 
-### 🏥 **MediCheck – AI-powered Medical Report Analyzer**
-- Upload: PDF / Image / Handwritten notes  
-- OCR extraction using **Tesseract**
-- AI-based diagnosis insights (LangChain + LLM)
-- Drug-Drug Interaction checker using CSV dataset
+### 🏥 MediCheck – AI Medical Report Analyzer
+- Extracts info with **OCR (Tesseract)** from Pdfs, images, handwritten notes
+- Provides AI-driven insights (LangChain + LLM)
+- Checks drug-drug interactions automatically
 
-### 🏠 **Rental Management System**
-- Dashboards for **owners** and **tenants**
-- Property listing, rent tracking, verification workflow
-- Built using **Django + Bootstrap**
-- Deployed on **Render**
+### 🏠 Rental Management System
+- Hassle-free dashboards for owners & tenants
+- Rent tracking, listing, verification
+- Built with **Django & Bootstrap**, hosted on **Render**
 
-### 🔗 **FraudBlock – Blockchain Product Verification**
-- Fake-product detection using **Ethereum blockchain**
-- QR-code–based product authentication
-- Tech: Solidity, Truffle, Ganache, Web3.js, Node.js
+### 🔗 FraudBlock – Blockchain Product Verification
+- Verifies products via **Ethereum blockchain** & QR codes
+- Built using `Solidity`, `Truffle`, `Ganache`, `Web3.js`, `Node.js`
 
 ---
 
-## 📊 GitHub Stats
+## 💻 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Taher9845&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taher9845&theme=radical" alt="streak" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tahermohammed9845@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+
+<p align="center">
+  <a href="mailto:tahermohammed9845@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  ⭐ <strong>Thanks for stopping by — let’s connect and build something awesome!</strong> ⭐
+</p>
