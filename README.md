@@ -1,95 +1,93 @@
-<!-- ===== Animated banner (replace URL with your own GIF if you want) ===== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Animated banner" width="100%" style="max-height:220px;object-fit:cover" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mohammed Taher</h1>
-
-<!-- ===== Animated typing intro ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=2BC3FF&center=true&vCenter=true&width=680&height=40&lines=Aspiring+Full-Stack+%26+Machine+Learning+Developer;Building+AI+%2B+Web+apps;Open+to+collabs+%26+learning+new+tech" alt="Typing SVG" />
-</p>
+<h3 align="center">Aspiring Full-Stack & Machine Learning Developer</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I build **AI + Web apps** — ML-powered healthcare tools, audio forensic systems, and full-stack platforms.  
-- 🌱 Currently: **Deepfake Audio Detection** (ASVspoof) + Gradio demo.  
-- 💬 Ask me about **Python, Django, ML (audio), OCR, and web apps**.  
-- ⚡ Fun fact: I love turning ideas into working apps.
+- 🔭 I build **AI + Web apps**, including ML-powered healthcare tools, audio forensic systems, and full-stack platforms.
+- 🌱 I’m currently working on **Deepfake Audio Detection** using classical ML models (Random Forest, KNN, CART, Naive Bayes).
+- 🧠 Exploring **Django**, **LangChain**, **OCR**, and end-to-end intelligent web applications.
+- 💬 Ask me about **Python, Django, Machine Learning, OCR, Web Apps, Blockchain basics**.
+- ⚡ Fun fact: I love converting ideas into working apps — fast!
 
 ---
 
-## ✨ Animated Tech Stack & Highlights
+## 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Dynamic shields (static images but visually lively) -->
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/ML-scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Librosa-000000?logo=librosa&logoColor=white" alt="Librosa" />
-  <img src="https://img.shields.io/badge/Gradio-FF6F00?logo=gradio&logoColor=white" alt="Gradio" />
-</p>
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-<p align="center">
-  <!-- GitHub Profile Trophy (animated SVG-like badges) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Taher9845&row=1&column=6&theme=radical" alt="Trophies" />
-</p>
+### **Frameworks & Tools**
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?logo=gradio&logoColor=white)
 
----
+### **Machine Learning & Data**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-000000?logo=librosa&logoColor=white)
 
-## 📘 Featured Projects (short)
-- **Deepfake Audio Detection** — ASVspoof; classical ML (Random Forest, KNN); Librosa features; Gradio demo.  
-- **MediCheck** — Medical report analyzer (Django + OCR + LangChain agent + DDI checker).  
-- **Rental Management System** — Django app with owner/tenant dashboards; deployed on Render.  
-- **FraudBlock** — Product verification PoC using Ethereum, QR codes.
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
----
-
-## 📊 Animated GitHub Stats & Activity
-
-<p align="center">
-  <!-- GitHub Readme Stats (dynamic SVG) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Taher9845&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Contribution Graph (service provides a visually engaging SVG) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Taher9845&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
 
 ---
 
-## 🔭 What I'm Learning
-- On-device ML models for wearables / embedded ML  
-- Improving robustness for audio classification and real-world deployment  
-- LangChain integrations and production-grade Django deployments
+## 📘 Featured Projects
+
+### 🔬 **Deepfake Audio Detection (ASVspoof 2019)**
+- Detects synthetic voice recordings
+- Classical ML models: Random Forest, KNN, CART, Naive Bayes
+- Feature extraction using **Librosa**
+- Metrics: **ROC-AUC**, **Confusion Matrix**, **EER**
+- Gradio-based real-time demo
+
+### 🏥 **MediCheck – AI-powered Medical Report Analyzer**
+- Upload: PDF / Image / Handwritten notes  
+- OCR extraction using **Tesseract**
+- AI-based diagnosis insights (LangChain + LLM)
+- Drug-Drug Interaction checker using CSV dataset
+
+### 🏠 **Rental Management System**
+- Dashboards for **owners** and **tenants**
+- Property listing, rent tracking, verification workflow
+- Built using **Django + Bootstrap**
+- Deployed on **Render**
+
+### 🔗 **FraudBlock – Blockchain Product Verification**
+- Fake-product detection using **Ethereum blockchain**
+- QR-code–based product authentication
+- Tech: Solidity, Truffle, Ganache, Web3.js, Node.js
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taher9845&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taher9845&theme=radical" alt="streak" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:tahermohammed9845@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tahermohammed9845@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👀 Visitor Count (animated)
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Taher9845.Taher9845" alt="visitor badge" />
-</p>
-
----
-
-### 🛠 Want a custom animated header or a unique GIF banner?
-If you want I can:
-- Create a custom animated GIF banner (colors / text you choose).  
-- Generate a custom typing line (different fonts or messages).  
-- Replace the placeholder banner with a personalized animation.
-
-Just tell me the text and color style you want for the animated header (e.g., dark neon, minimal, pastel), and I’ll produce a ready-to-use banner GIF + updated README snippet.
-
----
-
-⭐ **Thanks for visiting — feel free to tweak any GIF/URL to your own assets!**
+⭐ **Thanks for visiting my profile!**
